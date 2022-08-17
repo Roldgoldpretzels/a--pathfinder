@@ -1,4 +1,5 @@
-# a--pathfinder
+User must have pygame installed
+If not installed install through terminal "pip install pygame"
 Click to place the start and end points
 Orange pixel is the starting point
 Turquoise pixel is the end point
